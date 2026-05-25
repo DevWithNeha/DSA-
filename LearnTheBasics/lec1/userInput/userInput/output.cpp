@@ -1,0 +1,22 @@
+// #include <bits/stdc++.h>
+// using namespace std;
+
+// int main (){
+//     int x,y;
+//     cin>>x>>y;
+//     cout<<"value of x:" << x <<"and y:"<<y;
+//     return 0;
+// }
+
+
+// problem
+
+#include <bits/stdc++.h>
+using namespace std;
+
+int main (){
+    int n;
+    cin>>n;
+    cout<<n;
+
+}
